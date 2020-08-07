@@ -36,7 +36,7 @@
 [website]: https://youandx.com/
 [facebook]: https://www.facebook.com/loui.nissen/
 [youtube]: https://www.youtube.com
-[instagram]: https://instagram.com
+[instagram]: https://www.instagram.com/loui_nissen/
 [linkedin]: https://linkedin.com
 [webdevplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
