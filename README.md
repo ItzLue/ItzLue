@@ -1,4 +1,4 @@
-### Hi there, I'm Loui - aka [ItzLue][website] 👋
+### Hi there, I'm Loui - aka ItzLue 👋
 
 ## I'm a Student and developer!
 - 🏢 I’m currently working at YOUANDX
