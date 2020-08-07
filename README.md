@@ -1,7 +1,7 @@
 ### Hi there, I'm Loui - aka [ItzLue] 👋
 
 ## I'm a Student and Developer!
-- 🏢 I’m currently working on at [YouAndX][website]!
+- 🏢 I’m currently working at [YouAndX][website]!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to create bulding in BIM and play guitar / drums
 
