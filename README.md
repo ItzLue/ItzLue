@@ -32,6 +32,7 @@
 ---
 
 <img align="left" alt="Loui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItzLue&show_icons=true&hide_border=true" />
+
 [website]: https://youandx.com/
 [facebook]: https://www.facebook.com/loui.nissen/
 [youtube]: https://www.youtube.com
