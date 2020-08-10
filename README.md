@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 - 🏢 I’m currently working at [YouAndX][website]!
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to create bulding in BIM and play guitar / drums
+- ⚡ Fun fact: I love to create buldings in BIM and play guitar / drums
 
 ### Connect with me:
 
