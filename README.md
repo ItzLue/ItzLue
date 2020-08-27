@@ -1,10 +1,9 @@
 ### Hi there, I'm Loui - aka [ItzLue] 👋
 
 ## I'm a Student and Developer!
-- 🏢 I’m currently working at [YouAndX][website]!
+- 🏢 I’m currently working at [YouAndX][youandx]! and studying at [DTU][website] 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to create buldings in BIM and play guitar / drums
-
+- ⚡ Fun fact: I love to create buldings in BIM and play guitar
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -33,7 +32,8 @@
 
 <img align="left" alt="Loui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItzLue&show_icons=true&hide_border=true" />
 
-[website]: https://youandx.com/
+[youandx]: https://youandx.com/
+[DTU] : https://www.dtu.dk/
 [facebook]: https://www.facebook.com/loui.nissen/
 [youtube]: https://www.youtube.com
 [instagram]: https://www.instagram.com/loui_nissen/
