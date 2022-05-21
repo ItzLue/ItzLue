@@ -37,7 +37,7 @@
 [facebook]: https://www.facebook.com/loui.nissen/
 [youtube]: https://www.youtube.com
 [instagram]: https://www.instagram.com/loui_nissen/
-[linkedin]: https://linkedin.com
+[linkedin]: https://www.linkedin.com/in/loui-n/
 [webdevplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
